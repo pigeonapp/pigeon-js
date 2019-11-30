@@ -1,9 +1,5 @@
 # pigeon-js
 
-#To install pigeon-js to your web application, paste this snippet into the head of your site:
-
-# pigeon-js
-
 To install pigeon-js to your web application, paste this snippet into the head of your site:
 
 ```
