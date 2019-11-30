@@ -1,0 +1,19 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "rules": {
+        "global-require": 0,
+        "no-unused-vars": ["error", { "argsIgnorePattern": "^_", "varsIgnorePattern": "^_" }],
+        "no-path-concat": 0,
+        "quotes": ["error", "single"]
+    }
+}

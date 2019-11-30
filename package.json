@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/pigeonapp/pigeon-js/issues"
   },
-  "homepage": "https://github.com/pigeonapp/pigeon-js#readme"
+  "homepage": "https://github.com/pigeonapp/pigeon-js#readme",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
 }
