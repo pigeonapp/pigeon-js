@@ -1,0 +1,19 @@
+{
+  "name": "pigeon-js",
+  "version": "1.0.0",
+  "description": "javascript based client SDK for pigeon app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigeonapp/pigeon-js.git"
+  },
+  "author": "luv sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigeonapp/pigeon-js/issues"
+  },
+  "homepage": "https://github.com/pigeonapp/pigeon-js#readme"
+}
