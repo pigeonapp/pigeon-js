@@ -3,14 +3,17 @@
         "browser": true,
         "commonjs": true
     },
+    "plugins": ["prettier"],
     "extends": [
-        "airbnb-base"
+        "airbnb-base",
+        "plugin:prettier/recommended"
     ],
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
     },
     "rules": {
+        "prettier/prettier": "error",
         "global-require": 0,
         "no-unused-vars": ["error", { "argsIgnorePattern": "^_", "varsIgnorePattern": "^_" }],
         "no-path-concat": 0,
