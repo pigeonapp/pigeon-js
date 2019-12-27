@@ -1,6 +1,6 @@
 {
   "name": "pigeon-client",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Pigeon Browser SDK",
   "main": "src/index.js",
   "scripts": {
